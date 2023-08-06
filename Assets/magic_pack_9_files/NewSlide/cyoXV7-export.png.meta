@@ -1,0 +1,3129 @@
+fileFormatVersion: 2
+guid: 60a23eb7e5542774a8fa9e3694d84ab2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cyoXV7-export_0
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 601
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26699159eac098d468b3c001aa97a87e
+      internalID: -1818025616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 612
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7736d74643ce2a548876bddbd733c2c3
+      internalID: 265407106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 576
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a89d644dbf3854ca414c8eed480139
+      internalID: -2094101070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 603
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd35cf1a7694ef419c29b486d60853d
+      internalID: -663484069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 605
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fe14b9e3d432745b54626aa13457ca
+      internalID: -577174642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 604
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc1e0ad4944c114a8def89cefc22920
+      internalID: -1331589437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 602
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4d497685296904b9d338d1cd4ea14d
+      internalID: -788745986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 552
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ed8584442163c46982f9e1d66b5ae6
+      internalID: 255216594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_8
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 600
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15a763d319b26e4295ceb7fc4663575
+      internalID: -237552838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 605
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2868fc39c82534696cbd69e7c99817
+      internalID: 58957008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 533
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1459f04bca5a25a4f89dc7b667373a05
+      internalID: -1197170164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 597
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250a03d5f605934bbf18d54b6996ef6
+      internalID: 554564573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 540
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6945908bc5a9a48acbb0a6981ecf5c
+      internalID: -1333445202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 597
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0b4df8940f97143b0b7a63f36c32ad
+      internalID: -1390273806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 537
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4941aad1f3e4dda4396693fa2155a84f
+      internalID: -898069394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 598
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e2985c02c729b4eb241a1070ca91af
+      internalID: 323625580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 591
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e22355ad16f184daeca18315290326
+      internalID: 909820712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 587
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf586c09ab00e243b2f17b80e83dc07
+      internalID: 1499293911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 535
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4e347010d185443a8817d1592e25ef
+      internalID: 1532892882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_19
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 547
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75da8b05b2f76a443a816fab7f2d7b73
+      internalID: 1860433008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 584
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02244d9bdd5ea9489a6bb0ab0564545
+      internalID: 1136336033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 530
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdb390cda0309c449504cc66655b3d0
+      internalID: 1758360381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 578
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67b249c15d0bb1418da394b2f5fd133
+      internalID: -1967783235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 574
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe7362770d36f2458f88a9925533599
+      internalID: 1656574706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_24
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 579
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbacec117d57ea409ef1c6d17df8d0b
+      internalID: -978513240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_25
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 568
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b425acbe430662446bcaa9e82eaf6a81
+      internalID: 83463959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_26
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 570
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93a44317d6a9314cbe720b31d763fbb
+      internalID: -736487245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 523
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aae627efde5bf4eaf0225c66be60f3
+      internalID: -1692880433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 525
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e83137ed290bb419f2d1ff7e5df2f6
+      internalID: -681011134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_29
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 531
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383d3ad1da48fd64fbfa485171701de3
+      internalID: -1938345202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_30
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 472
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36b88cfee761fc4984f0e2f06e6bca7
+      internalID: -1386494854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_31
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 519
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0168577580a309f4c8516f69c3c870ea
+      internalID: -1300538664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 524
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9a3dd62a81cb44380d076091290412
+      internalID: -963954570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 528
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cf41a5780616642b5ab3fed97b74cc
+      internalID: -779568762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_34
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 528
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cfb55215b3e234eae6ad402475190c
+      internalID: 753337985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_35
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 531
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113745af8978f454aa770e98546e6cec
+      internalID: 1588649194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_36
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 459
+        width: 124
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4a41d8407acaf4e83e60376d413e7a
+      internalID: 966951466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_37
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 465
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4ab99593daf3347b6fef286f6d4ce3
+      internalID: -1583800092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 526
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af6b17d95625d46bf85b928b635ebd
+      internalID: -304862645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 460
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32f6b9b11fcf9d4cbb2b24772eb5a17
+      internalID: 1607239212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 455
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d608b849c177c3419814c1ceda3b678
+      internalID: 402524716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_41
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 459
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720238be2951f0442956e247ad5c3c21
+      internalID: -259901887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 510
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d65afffa0d695d438e0d2b6c6b94958
+      internalID: -1972345993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_43
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 462
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1359a898cd1d14c8383a99c91d4fda
+      internalID: -717932907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_44
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 515
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa5ffa7649a0124fa00555767a9c2ea
+      internalID: -436410636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_45
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 489
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3988974dd8156554ebb2d327253ec2f9
+      internalID: 624676430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_46
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 508
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfc5e1c916fa5d4991fcd9cba7b2fba
+      internalID: 93333077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 496
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5933f9abe3a51408af5f36919de9e2
+      internalID: 1368278894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_48
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 517
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4834ae686e34e24097cd48a931747f1
+      internalID: 1233761703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_49
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 505
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578f67fd181836d43a1e5382de408a74
+      internalID: -1685003238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_50
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 516
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339556af9eedd0b468bd0990fe749b0a
+      internalID: 318038799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_51
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 511
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de757b85e8af6ad40a739b9478916a89
+      internalID: -1130648008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_52
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 502
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4441fb386678b41972770cfe080535
+      internalID: -444046185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_53
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 492
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4659453b9b8ba04480f2dd9a9a16bc0
+      internalID: 642724588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_54
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 455
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefecd6aba6def644a7a1e13ca9c5e73
+      internalID: 759089648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 452
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e3d0920ab7734c8df8edbd6902fc7
+      internalID: -1438417949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_56
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 478
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f3798381ba8e1449737b22afa07f7f
+      internalID: -351342313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_57
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e541c60d97102c4182808e1278c45c0
+      internalID: 1747462242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_58
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 488
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f389575d0e8514a81c4b155e98ee20
+      internalID: 892670455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_59
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 453
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7954bde8d8d9a47a5a588e231f264a
+      internalID: -510156838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_60
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 470
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca39ea70ab775446a3cd43c28092013
+      internalID: 400912757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_61
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 473
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebf25104b55abc4f8e679b5b24d6e07
+      internalID: 218642074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_62
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 468
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7676fef70d70a4c8c294e0af3f9399
+      internalID: 1728377186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 447
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0275163d554c71a40800e30a338c8ff4
+      internalID: 1081134606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_64
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 377
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eb48eab433d8045b2d9894b3128798
+      internalID: -919916279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 381
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd425608578f54c9045944baca43dd
+      internalID: 1214251941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_66
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 438
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e0266de112f524e93dad6ddc40d880
+      internalID: 165778709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 383
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d3d7e9d781824984baf88657dbcc1
+      internalID: -1342230253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 448
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17014d0097fc8c54f97815fed74b32ad
+      internalID: -2129459694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 438
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ff33aa4c2b3b4facde63a09a96e5c
+      internalID: -1514083716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_70
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6984395b8734bb5499f594825c7f60bb
+      internalID: 1859108494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_71
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 388
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c03acbb3513fcd4ab1f0e5a23e485c9
+      internalID: 830719668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_72
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 390
+        width: 25
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0f17f54393b2f46855e3163a3c2596
+      internalID: -689653678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_73
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 447
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a49af2a551a7354aa32689621281b3e
+      internalID: 1229956132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_74
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 395
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3bcac2927531b4db11b8896177fa98
+      internalID: 253813088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 398
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9a0f45430bb6642b0f0cdeab160560
+      internalID: 957736590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_76
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 453
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ac106a501df1340a0fa5625ee14532
+      internalID: 745621015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_77
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 429
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c0212fc80526e42bc9f659fe114226
+      internalID: 827530863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_78
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 413
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7d57c3989426c49a87025cf3ac763f
+      internalID: -493520574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_79
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 410
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980da0b5dbf56d04ba66ab86307a4252
+      internalID: -1992710876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_80
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 416
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adc5028295745544bb10c4fcd402c57
+      internalID: -1466903333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_81
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 418
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323ef8e5090e8354d93fbad13db995c0
+      internalID: -1657735763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_82
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 421
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6e9b6d0dd15e4ab0d0df0f704bca2
+      internalID: 808692496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_83
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 436
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc5c763f6d46b4e8180f3d94b53325
+      internalID: 1804689267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_84
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 438
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dcbaaac36c75447abf3ea726278997
+      internalID: 1174231032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_85
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 444
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b6a2e2ba81c6c48ab07aa5a8f79ee1
+      internalID: 807506565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_86
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 430
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95ccf5fd571dfc4ca6ee76c7624e779
+      internalID: -1001430716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_87
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 419
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d42d60de4cd2543a928d2420297026
+      internalID: -568678659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_88
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 452
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34524dad19136c4aaafd46c5ffb4a40
+      internalID: -1491037069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_89
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 359
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a84266405bedb4283b9d3cb0955ca5
+      internalID: -1068248538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_90
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 362
+        width: 94
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ffa42ccffc37b4283013c374314790
+      internalID: -1495843824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_91
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 372
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71c2f283053e0a4dbd8ed8939fb5d85
+      internalID: -668933062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_92
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 354
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27fc1ffe300e254fa20ea095e7e0e2e
+      internalID: 837811422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_93
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 356
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c55d632dbb4a4e8544a0473a5bfa0
+      internalID: 487305417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 280
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c048e0c1efc554591220c771ccf7e5
+      internalID: -733571996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_106
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 262
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d39be06e17ad6448c20faf5fad2942
+      internalID: 777606806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 263
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082dedc633afda641bbf74d73c84f14c
+      internalID: 55213613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_113
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 277
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4b213cdbc88e24ea12892a05e5859b
+      internalID: -1592246130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 259
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7e7de031d446f4ea39b6ad70029b80
+      internalID: 1959924379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_116
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 259
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05386ede31deea54b85c73989a325d56
+      internalID: 1609618581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_117
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 267
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753269fccc016b4a8396926337855c7
+      internalID: -2064064316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_118
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 272
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cdf62b152c2b84285647ad426af4d5
+      internalID: 512994367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_120
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 256
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370407f3061fad54f8f777690b30be0d
+      internalID: 1772705092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 198
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82573e7bb56359342a55d769e18691cd
+      internalID: -833939313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_122
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 266
+        width: 45
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6ea22c24cc0414cb6a16ab4f8ca47e
+      internalID: -1112306920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 252
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389a1e6096d29e04f8f59ec668c5ee4e
+      internalID: -991183581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 163
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0233c72bf9f9f46458c538054d34e002
+      internalID: -2125995926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 168
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a22281a4ce8e55478e50764fa1e0d01
+      internalID: 160896450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 186
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea433f65cd9984490f9b9ff762a461
+      internalID: -733807832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_130
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 242
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719474c9b9af8664fb9f88318716c5e2
+      internalID: -356353157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_131
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 236
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ce26db9a65c7c4fb3b07c2deeba690
+      internalID: -921858921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_134
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 229
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1434810e87b934597401e29347916e
+      internalID: 1866362101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_137
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 198
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e3de45697a92a46921cd39ebf5a38c
+      internalID: -961124780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_138
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 214
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56f7e0b18d748341bc7e4ac12265383
+      internalID: 2085731562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_140
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cdf578a47fa734598bc404ffa0dfb2
+      internalID: 749976715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 157
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb3d5c344530f449429b71a0fc4846
+      internalID: -1007463167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_142
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924d8da1967389f4396b59bdbbd153dd
+      internalID: 1551459048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_143
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 160
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b9d5e7dd3067468782a7ebfd4008e
+      internalID: -468678107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 71
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea952a59409af6a4db2ba0d2b7f6abcd
+      internalID: -1657090352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_145
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888fdd00b3669e04b9738660f74c9cec
+      internalID: 365562563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_146
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 133
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a589bc976aeb4c4493cd7779ce619f0
+      internalID: -894737142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_147
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 150
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5994b7485e82142a9c84ba27f28c41
+      internalID: -691424891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_148
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 149
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c710f955e4ed42b40ce8cc4107f0f
+      internalID: 859743955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_149
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 142
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6bd4c7c15906b4a957b05fd04c8036
+      internalID: 1985319118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_150
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 132
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a985a26b04959a5499e819048d74a407
+      internalID: 1358827535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_151
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 108
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3df9e13cde002438cb26cd7b8f86d8
+      internalID: 1167158371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_152
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 126
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93dad5a08de3534c97005f2558d5fd7
+      internalID: 303933616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 65
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0421d0644fee34446bfa75d99c93e7d4
+      internalID: -1067309405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_154
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 96
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e659921a861a4bb5ff4a0ed3d7a16
+      internalID: 1404720465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_155
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 109
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f8d162a3abd2d42b6084c339727e73
+      internalID: 94934670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_156
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 100
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623eaf54a04d0c041acbd55793e1acf6
+      internalID: 8967688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-export_157
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6a6dd40df2eb249a97ab4935575ced
+      internalID: 1628964886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 62
+        width: 15
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72db83faa9e7a714abb0b58200b61e37
+      internalID: 1947594219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 287
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb4e251a8cdde64fa3407b0982da1ae
+      internalID: -1937096850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 90
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4563d803fff8c47a65ac815e8f9844
+      internalID: -1311996855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: -991183581
+      10: -733571996
+      11: -733807832
+      12: -1311996855
+      13: -1937096850
+      14: -833939313
+      2: -1007463167
+      3: 1947594219
+      4: 1959924379
+      5: -2125995926
+      6: -1067309405
+      7: 55213613
+      8: 160896450
+      9: -1657090352
+      cyoXV7-export_0: -1818025616
+      cyoXV7-export_1: 265407106
+      cyoXV7-export_10: -1197170164
+      cyoXV7-export_100: 1887352415
+      cyoXV7-export_101: -470022719
+      cyoXV7-export_102: 1469369321
+      cyoXV7-export_103: 1285400850
+      cyoXV7-export_104: -392380598
+      cyoXV7-export_105: 2019233493
+      cyoXV7-export_106: 777606806
+      cyoXV7-export_108: -1418933401
+      cyoXV7-export_109: -1683505310
+      cyoXV7-export_11: 554564573
+      cyoXV7-export_110: -51264183
+      cyoXV7-export_111: 1332074617
+      cyoXV7-export_112: -879625075
+      cyoXV7-export_113: -1592246130
+      cyoXV7-export_115: 1660390007
+      cyoXV7-export_116: 1609618581
+      cyoXV7-export_117: -2064064316
+      cyoXV7-export_118: 512994367
+      cyoXV7-export_119: -1593713544
+      cyoXV7-export_12: -1333445202
+      cyoXV7-export_120: 1772705092
+      cyoXV7-export_122: -1112306920
+      cyoXV7-export_124: 2084068427
+      cyoXV7-export_125: 539376646
+      cyoXV7-export_128: -1351351821
+      cyoXV7-export_13: -1390273806
+      cyoXV7-export_130: -356353157
+      cyoXV7-export_131: -921858921
+      cyoXV7-export_132: 2052295517
+      cyoXV7-export_133: 402610915
+      cyoXV7-export_134: 1866362101
+      cyoXV7-export_135: -909955638
+      cyoXV7-export_136: 2039754140
+      cyoXV7-export_137: -961124780
+      cyoXV7-export_138: 2085731562
+      cyoXV7-export_139: -1110146602
+      cyoXV7-export_14: -898069394
+      cyoXV7-export_140: 749976715
+      cyoXV7-export_142: 1551459048
+      cyoXV7-export_143: -468678107
+      cyoXV7-export_145: 365562563
+      cyoXV7-export_146: -894737142
+      cyoXV7-export_147: -691424891
+      cyoXV7-export_148: 859743955
+      cyoXV7-export_149: 1985319118
+      cyoXV7-export_15: 323625580
+      cyoXV7-export_150: 1358827535
+      cyoXV7-export_151: 1167158371
+      cyoXV7-export_152: 303933616
+      cyoXV7-export_154: 1404720465
+      cyoXV7-export_155: 94934670
+      cyoXV7-export_156: 8967688
+      cyoXV7-export_157: 1628964886
+      cyoXV7-export_16: 909820712
+      cyoXV7-export_17: 1499293911
+      cyoXV7-export_18: 1532892882
+      cyoXV7-export_19: 1860433008
+      cyoXV7-export_2: -2094101070
+      cyoXV7-export_20: 1136336033
+      cyoXV7-export_21: 1758360381
+      cyoXV7-export_22: -1967783235
+      cyoXV7-export_23: 1656574706
+      cyoXV7-export_24: -978513240
+      cyoXV7-export_25: 83463959
+      cyoXV7-export_26: -736487245
+      cyoXV7-export_27: -1692880433
+      cyoXV7-export_28: -681011134
+      cyoXV7-export_29: -1938345202
+      cyoXV7-export_3: -663484069
+      cyoXV7-export_30: -1386494854
+      cyoXV7-export_31: -1300538664
+      cyoXV7-export_32: -963954570
+      cyoXV7-export_33: -779568762
+      cyoXV7-export_34: 753337985
+      cyoXV7-export_35: 1588649194
+      cyoXV7-export_36: 966951466
+      cyoXV7-export_37: -1583800092
+      cyoXV7-export_38: -304862645
+      cyoXV7-export_39: 1607239212
+      cyoXV7-export_4: -577174642
+      cyoXV7-export_40: 402524716
+      cyoXV7-export_41: -259901887
+      cyoXV7-export_42: -1972345993
+      cyoXV7-export_43: -717932907
+      cyoXV7-export_44: -436410636
+      cyoXV7-export_45: 624676430
+      cyoXV7-export_46: 93333077
+      cyoXV7-export_47: 1368278894
+      cyoXV7-export_48: 1233761703
+      cyoXV7-export_49: -1685003238
+      cyoXV7-export_5: -1331589437
+      cyoXV7-export_50: 318038799
+      cyoXV7-export_51: -1130648008
+      cyoXV7-export_52: -444046185
+      cyoXV7-export_53: 642724588
+      cyoXV7-export_54: 759089648
+      cyoXV7-export_55: -1438417949
+      cyoXV7-export_56: -351342313
+      cyoXV7-export_57: 1747462242
+      cyoXV7-export_58: 892670455
+      cyoXV7-export_59: -510156838
+      cyoXV7-export_6: -788745986
+      cyoXV7-export_60: 400912757
+      cyoXV7-export_61: 218642074
+      cyoXV7-export_62: 1728377186
+      cyoXV7-export_63: 1081134606
+      cyoXV7-export_64: -919916279
+      cyoXV7-export_65: 1214251941
+      cyoXV7-export_66: 165778709
+      cyoXV7-export_67: -1342230253
+      cyoXV7-export_68: -2129459694
+      cyoXV7-export_69: -1514083716
+      cyoXV7-export_7: 255216594
+      cyoXV7-export_70: 1859108494
+      cyoXV7-export_71: 830719668
+      cyoXV7-export_72: -689653678
+      cyoXV7-export_73: 1229956132
+      cyoXV7-export_74: 253813088
+      cyoXV7-export_75: 957736590
+      cyoXV7-export_76: 745621015
+      cyoXV7-export_77: 827530863
+      cyoXV7-export_78: -493520574
+      cyoXV7-export_79: -1992710876
+      cyoXV7-export_8: -237552838
+      cyoXV7-export_80: -1466903333
+      cyoXV7-export_81: -1657735763
+      cyoXV7-export_82: 808692496
+      cyoXV7-export_83: 1804689267
+      cyoXV7-export_84: 1174231032
+      cyoXV7-export_85: 807506565
+      cyoXV7-export_86: -1001430716
+      cyoXV7-export_87: -568678659
+      cyoXV7-export_88: -1491037069
+      cyoXV7-export_89: -1068248538
+      cyoXV7-export_9: 58957008
+      cyoXV7-export_90: -1495843824
+      cyoXV7-export_91: -668933062
+      cyoXV7-export_92: 837811422
+      cyoXV7-export_93: 487305417
+      cyoXV7-export_96: -1258679616
+      cyoXV7-export_98: -963212020
+      cyoXV7-export_99: 2047568674
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

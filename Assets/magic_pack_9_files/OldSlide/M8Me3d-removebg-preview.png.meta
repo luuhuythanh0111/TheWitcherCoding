@@ -1,0 +1,1301 @@
+fileFormatVersion: 2
+guid: 78dae4fcb49b2af49a2f892e45a4d1b2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 307
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae45361f999afeb439138a996f2ccc8c
+      internalID: -478933302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 303
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1d6e2a75abe1d4b9bafec1f2331500
+      internalID: -810746999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 306
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef17a12378191c54cbd1b257e3e4b2ae
+      internalID: 1566539299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 300
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c70efa8e51837343a5d0557ffdf771d
+      internalID: -1256387992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 259
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670fa3756f0178e4397f1b152f05ff60
+      internalID: 2040336077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 261
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4679b2aaa1b3fc9429411a4f423da4e1
+      internalID: -1299006736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 218
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd646560beb894a43a93539bfc4931a5
+      internalID: -1455244944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 216
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0611b89d426121a438fbb68552ffcb79
+      internalID: 1305015982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 217
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adb700f6ac097c49b3ca018914d3def
+      internalID: 390534034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 253
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c4e78ea3eb19941aa510ff298db52a
+      internalID: -540708018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 256
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feef4ee3509a17b40abdb23e4739fed5
+      internalID: -2080935166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 213
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d2760c89989954e8476c0911341258
+      internalID: 354851136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 215
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c82113046e94143a073ab7d8f240c6
+      internalID: 1349905128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b427f6b0b5b0d014c8574945263a4a60
+      internalID: -1064988534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 211
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387854e56196d6e4faf8eb0bde0b5332
+      internalID: -1268843321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 197
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8313e06d851a054cbd10faebfc7c6fb
+      internalID: -430437092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 158
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359b309d07ff79047b7af618ed2ab1ee
+      internalID: -1033350174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 157
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f53de1c5f44f840984aac991f2d295
+      internalID: -1255290067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 156
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b967cdc47dc396d478b310d08ddb8aca
+      internalID: 1795914491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 152
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8ed70eab1074c478e9941235d054be
+      internalID: -335218435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 153
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee979616f9a2dcb4fb1a1fb937442132
+      internalID: -652131791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 139
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cb4986ade4a6348a67f3ef7aceb8db
+      internalID: -159886350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 97
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9077b250e14b16642bca7a5947abec93
+      internalID: -144363315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 95
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68ffa6421f623a45b15c43ce8436abd
+      internalID: 69446182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 97
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b668ed5905449c45acadcd6847d055a
+      internalID: 1013549957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cabafb2cd1346b4899b89c21a6c819f
+      internalID: 1211566752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 99
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88bbb47bc34dd541904a7ece8764d39
+      internalID: 1889750625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 101
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bb3bbe8fe51f94c8c6dbcbbfce50a0
+      internalID: -1789410022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 96
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3439f5aa953018f4698619d1136f3d26
+      internalID: -1362599103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 93
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db561a3c58d9ec649a75b6cb7fcce4d5
+      internalID: -112375050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 114
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ab012a6a5e914eb165796bfb0bf32
+      internalID: 701333640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 39
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6336d88bb35c44fb2b293166002910
+      internalID: 897322647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 41
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7ab4f5c7c4bfb43bba05964fab59a6
+      internalID: -3129347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 44
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d23626ced85c54b9eec3f3d03600a9
+      internalID: 1586861787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 47
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25f5f02ddcd634791b62c8ffb7dc1c
+      internalID: 796176763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 218
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d870057872a6341a3fa9074871abda
+      internalID: 1859459654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897298694db04f047b81c325f5698e13
+      internalID: -1023650672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 156
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2303d0c9febb24ca2b753230e861ee
+      internalID: 1780208885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 157
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1a9bea5f21a9a48baf084783d5b8ef
+      internalID: 260705205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 297
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39963559659329458b85bc6f23a4e5e
+      internalID: -9760517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 147
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2226b91496883324cb34b6547bb156aa
+      internalID: 143806008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 147
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52ecf7bd5a4b1c47ab1d4cb1f78407b
+      internalID: 1489786533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 90
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5521160bba4fd234ab7cd488cfc0bccc
+      internalID: 1287544596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 36
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d709274b02e124dacd982fc56b216a
+      internalID: -672190557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 161
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7225ded6357749c458f19d25692f5df8
+      internalID: 410352703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 106
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe28352ee2158047bf01920057bf926
+      internalID: 5006330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 307
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b18e8c2aaa82df4b91243991cf50544
+      internalID: -1441451970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 259
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4395618647c93b4d8fac6b7209fca2d
+      internalID: 1072762260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 260
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b73b33e8951d940a341944be332162
+      internalID: 526706972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M8Me3d-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 215
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d67c357f784d443bbdf54691e6324c
+      internalID: 1588864578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      M8Me3d-removebg-preview_0: -478933302
+      M8Me3d-removebg-preview_1: 1072762260
+      M8Me3d-removebg-preview_10: 143806008
+      M8Me3d-removebg-preview_100: 1045347206
+      M8Me3d-removebg-preview_101: 701333640
+      M8Me3d-removebg-preview_102: -628105323
+      M8Me3d-removebg-preview_103: 1196553367
+      M8Me3d-removebg-preview_104: 1365039688
+      M8Me3d-removebg-preview_105: 2066226787
+      M8Me3d-removebg-preview_106: -1019352426
+      M8Me3d-removebg-preview_107: 1562989940
+      M8Me3d-removebg-preview_108: -1300441407
+      M8Me3d-removebg-preview_109: 897322647
+      M8Me3d-removebg-preview_11: -1256387992
+      M8Me3d-removebg-preview_110: -3129347
+      M8Me3d-removebg-preview_111: 1586861787
+      M8Me3d-removebg-preview_112: 1032677796
+      M8Me3d-removebg-preview_113: 796176763
+      M8Me3d-removebg-preview_114: 1530821568
+      M8Me3d-removebg-preview_115: 352994793
+      M8Me3d-removebg-preview_12: 385578490
+      M8Me3d-removebg-preview_13: 351880691
+      M8Me3d-removebg-preview_14: 2040336077
+      M8Me3d-removebg-preview_15: -1299006736
+      M8Me3d-removebg-preview_16: 2144218443
+      M8Me3d-removebg-preview_17: 504617641
+      M8Me3d-removebg-preview_18: 1229257596
+      M8Me3d-removebg-preview_19: -1102098466
+      M8Me3d-removebg-preview_2: 526706972
+      M8Me3d-removebg-preview_20: -1705899648
+      M8Me3d-removebg-preview_21: 1273473754
+      M8Me3d-removebg-preview_22: 2109415087
+      M8Me3d-removebg-preview_23: -1455244944
+      M8Me3d-removebg-preview_24: -491972407
+      M8Me3d-removebg-preview_25: -1270082445
+      M8Me3d-removebg-preview_26: 1582537660
+      M8Me3d-removebg-preview_27: 1321173370
+      M8Me3d-removebg-preview_28: 1780208885
+      M8Me3d-removebg-preview_29: 260705205
+      M8Me3d-removebg-preview_3: 1588864578
+      M8Me3d-removebg-preview_30: 1489786533
+      M8Me3d-removebg-preview_31: 1305015982
+      M8Me3d-removebg-preview_32: 390534034
+      M8Me3d-removebg-preview_33: 1859459654
+      M8Me3d-removebg-preview_34: -540708018
+      M8Me3d-removebg-preview_35: -2080935166
+      M8Me3d-removebg-preview_36: -1023650672
+      M8Me3d-removebg-preview_37: 1287544596
+      M8Me3d-removebg-preview_38: 53409862
+      M8Me3d-removebg-preview_39: -1273211285
+      M8Me3d-removebg-preview_4: -810746999
+      M8Me3d-removebg-preview_40: -672190557
+      M8Me3d-removebg-preview_41: 410352703
+      M8Me3d-removebg-preview_42: 5006330
+      M8Me3d-removebg-preview_43: 354851136
+      M8Me3d-removebg-preview_44: 1349905128
+      M8Me3d-removebg-preview_45: 838784092
+      M8Me3d-removebg-preview_46: -1441451970
+      M8Me3d-removebg-preview_47: -1064988534
+      M8Me3d-removebg-preview_48: -1268843321
+      M8Me3d-removebg-preview_49: 431125517
+      M8Me3d-removebg-preview_5: 1566539299
+      M8Me3d-removebg-preview_50: -1325801930
+      M8Me3d-removebg-preview_51: 299273332
+      M8Me3d-removebg-preview_52: -1756064637
+      M8Me3d-removebg-preview_53: -1656393268
+      M8Me3d-removebg-preview_54: -430437092
+      M8Me3d-removebg-preview_55: 384133895
+      M8Me3d-removebg-preview_56: -1033350174
+      M8Me3d-removebg-preview_57: -1255290067
+      M8Me3d-removebg-preview_58: 1795914491
+      M8Me3d-removebg-preview_59: -1875531658
+      M8Me3d-removebg-preview_6: -376249705
+      M8Me3d-removebg-preview_60: -1044900084
+      M8Me3d-removebg-preview_61: 300719911
+      M8Me3d-removebg-preview_62: -335218435
+      M8Me3d-removebg-preview_63: -652131791
+      M8Me3d-removebg-preview_64: -1971724699
+      M8Me3d-removebg-preview_65: -733143699
+      M8Me3d-removebg-preview_66: 301711582
+      M8Me3d-removebg-preview_67: 700581826
+      M8Me3d-removebg-preview_68: -187853955
+      M8Me3d-removebg-preview_69: -1462691084
+      M8Me3d-removebg-preview_7: 1087689326
+      M8Me3d-removebg-preview_70: 320958145
+      M8Me3d-removebg-preview_71: -1736410106
+      M8Me3d-removebg-preview_72: 1507300135
+      M8Me3d-removebg-preview_73: 45213167
+      M8Me3d-removebg-preview_74: -397749221
+      M8Me3d-removebg-preview_75: 1562200806
+      M8Me3d-removebg-preview_76: -228098468
+      M8Me3d-removebg-preview_77: 2127824817
+      M8Me3d-removebg-preview_78: 1836677377
+      M8Me3d-removebg-preview_79: 860220730
+      M8Me3d-removebg-preview_8: -358668285
+      M8Me3d-removebg-preview_80: 1182459094
+      M8Me3d-removebg-preview_81: 579551988
+      M8Me3d-removebg-preview_82: -542762306
+      M8Me3d-removebg-preview_83: -159886350
+      M8Me3d-removebg-preview_84: -144363315
+      M8Me3d-removebg-preview_85: 714055622
+      M8Me3d-removebg-preview_86: 69446182
+      M8Me3d-removebg-preview_87: 1013549957
+      M8Me3d-removebg-preview_88: 1211566752
+      M8Me3d-removebg-preview_89: 1889750625
+      M8Me3d-removebg-preview_9: -9760517
+      M8Me3d-removebg-preview_90: -886038862
+      M8Me3d-removebg-preview_91: -1789410022
+      M8Me3d-removebg-preview_92: 777546074
+      M8Me3d-removebg-preview_93: 1255265736
+      M8Me3d-removebg-preview_94: -1362599103
+      M8Me3d-removebg-preview_95: 1325272786
+      M8Me3d-removebg-preview_96: -1506219964
+      M8Me3d-removebg-preview_97: -112375050
+      M8Me3d-removebg-preview_98: 813460699
+      M8Me3d-removebg-preview_99: -208053616
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

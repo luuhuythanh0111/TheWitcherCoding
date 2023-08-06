@@ -1,0 +1,2866 @@
+fileFormatVersion: 2
+guid: f11332ae43ba41444916aa567b2b1c4b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vsa-01-export_0
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 746
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2719dbe51399a42a3a91aef2e5726f
+      internalID: -1336840506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 753
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de5204da5594f143bbb63c484404aec
+      internalID: -510148615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 757
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c250c2d1f891c34e8d0e2321d0d3d67
+      internalID: 1925264636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 726
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a724222df6143a42a4e5c88f9a67e90
+      internalID: -1716171543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 734
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3924074942ad5f543aa6bbd557dbe1a5
+      internalID: 233050353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_5
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 774
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd74a576d39c23a4d8cacf992a63a353
+      internalID: -1380813113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 729
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd9d52eddfe6774a939167744bd26cf
+      internalID: 1153440872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 723
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b963f99df42dd4bb2cae63913a7194
+      internalID: 1069706309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_8
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 717
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e1a59d505261418e18f205ede40ed
+      internalID: -1246406190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_9
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 718
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2eb28439ff9c846bb6a12bd60cf7e4
+      internalID: 1560654981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_10
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 715
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f970f838e93cbdf4fa255b82414a1976
+      internalID: 625029082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_11
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 747
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81958f13b26323a4cac8b50c263617af
+      internalID: -1101498371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 717
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91090916f5749fc488491f744ab12567
+      internalID: 741762358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_13
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 735
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fdca8bc0f1fc648a05d3a55d10fe0d
+      internalID: 182095258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_14
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 734
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa13d9d79aaf8e54db75bba95b8a67e7
+      internalID: 1443447750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_15
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 731
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281288277274136439abfd57bb9c7095
+      internalID: -1240479815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_16
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 723
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5df5960951b7944b74eafc30be7b50
+      internalID: -763705601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_17
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 723
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a2e6628c6b67f40816de578eb9206d
+      internalID: 1767329882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_18
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 717
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368bd48c6cd8bdd4282cb9fd930f7895
+      internalID: -13847366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 589
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7348eb8a6e4f0794898119914270e888
+      internalID: -872539591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 601
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be28d8f4159dce9458e2bfd00639cc2c
+      internalID: -1202821465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 590
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf0c8134eb8c7a4bb945452f3aa0557
+      internalID: 750541246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_22
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 551
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc3b53498afd204ea094912d11f041e
+      internalID: -1699544538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_23
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 546
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cee1183559a054bad905c480d6870e
+      internalID: 17659527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_24
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 546
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da719d92cf45fd5478e62fa7b1406333
+      internalID: 1976472741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_25
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 603
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bcae3eacfc0f149ad8b75d4b96c765
+      internalID: -1932326695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_26
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 607
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6a72d1574c0dd4386b7d402af15be1
+      internalID: 1341353947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_27
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 605
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c874dc91be1684db45fbbc67e5b0a9
+      internalID: -44777412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_28
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 582
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e679bb9f4c6a58843bd60391f4ae6031
+      internalID: 1789789706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_29
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 611
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4232b001cc47a114196d363239784347
+      internalID: 638174342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_30
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 611
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927b7688589ad2946bd4fbf16440179f
+      internalID: 1748044904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_31
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 574
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cee3906241ad04ab240bc331a7bbba
+      internalID: 250119381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_32
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 547
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436b40feaf876ab48920a82b11c14f6b
+      internalID: 1719969495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_33
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 561
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3cdc5c084672947b096cb3d8096539
+      internalID: -1937966967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 573
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0d1fedec80a32459c300aa2fafd116
+      internalID: 1893113566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_35
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 576
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e26fa68e88d4946803ca3dd35c16e3
+      internalID: -2014719563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_36
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 591
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14088d224ce6d2b43b247dde1699e32f
+      internalID: -1376301841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_37
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 564
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224188d4f27aac47be40705209c63b7
+      internalID: 406415376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_38
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 569
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534424b9628929549b385ce8f2933adc
+      internalID: -793754427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_39
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 563
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0376a2835d5cc4393ff81c7f0975e8
+      internalID: -163949667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_40
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 561
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7d4ac5c082fd5429d2022f8765def8
+      internalID: 33039628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_41
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 594
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a9c416be3d78a4ebef1acad71fae25
+      internalID: -1129174738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_42
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 589
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720d39dc01377bf41a3226058149b182
+      internalID: -125164562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_43
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 581
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354fff51aac8ff541bcd180abc1ef088
+      internalID: 1015617123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_44
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 590
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3df89bd147c1f4b855392132aff976
+      internalID: 674020842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_45
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 561
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e3fa09f048e2e4b8400c15de98ce40
+      internalID: 1113970433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_46
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 580
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ad60cb7cc0c624385f4c60c82d25ed
+      internalID: -741869934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_47
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 582
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253aad416eba5ae41911fb0a2090ce50
+      internalID: -1501624085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_48
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 564
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfec217b91dd5c7488397332257c14e1
+      internalID: -998038569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_49
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 550
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182ac460ba7d27b4ba60fcd7017f46b8
+      internalID: -128351599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_50
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 548
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feed4f9b0b07ed54fa35ad47326e6a34
+      internalID: 561547995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_51
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 557
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2387fa7bd8126ab44b2be2923434b97b
+      internalID: 995117920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_52
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 554
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1465399d28e246a39ab7ee5d5d899
+      internalID: -521507180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_53
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 567
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7a9e35e189fcf4aa96f1c0b34a64fb
+      internalID: -636153736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_54
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 567
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b713a7f7f3dfce45872f32b37a863af
+      internalID: -1012459937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_55
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 569
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dc29ff46a174041ac53d13bf083fa9
+      internalID: 1345821188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 547
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5972f0f15817442b9ee686c55ea834
+      internalID: 1562268813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_57
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 548
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138ea30302ef8e24192c9de8e8e1608f
+      internalID: -923653754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_58
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 543
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144b38ccab498b42a4a31629ef885f2
+      internalID: 1779057427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_59
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 548
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a0ed87d1d2a649a44e86448da17d2
+      internalID: 1956274845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_60
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 556
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9fed9479a19ce48832bbaeb14de882
+      internalID: -590682059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_61
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 557
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d931d06b4c264bbd19fd801d5d4e3
+      internalID: 1653344341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_62
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 546
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db8b456c2fd2394aa70e09fbec013d4
+      internalID: -1077065859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_63
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 378
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a17eef148de674a983335823ff6fff
+      internalID: -1977564335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_64
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 370
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fb2bc2852454a4bb6397237d577a03
+      internalID: 372203397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_65
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 396
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c1a66fb8b21314ca1111e01148d488
+      internalID: 457754764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_66
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 436
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a2be16edd95084db42a06118cbd2f3
+      internalID: -1577230170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_67
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 435
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6beede62369f5409c351c115c6bedf
+      internalID: -1319973525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_68
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 368
+        width: 103
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9887e86b7c24e4e44b73c6e23508d2bb
+      internalID: -362651659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_69
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 404
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ff07c7d85333428450af56336cda6
+      internalID: -1917235359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 404
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1ef254a5eb51248b398a2b72b8354e
+      internalID: 1422690933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_71
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 404
+        width: 67
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5957a3a164c16459b28be78bcd3ff8
+      internalID: -1335684163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_72
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 401
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713cb26569bc7254b8f4151f5b93ffb4
+      internalID: -1982458273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_73
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 397
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8b5b39345cc1744a82b88fd3a3c9af
+      internalID: -1923119215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_74
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 397
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb9341adde8854bb4c0497c176d744
+      internalID: -307410609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_75
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 387
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23de001b689f91941a1c551aa664d5a2
+      internalID: -829078285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_76
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 368
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fbc43eaa8264641ad08aa86d2c811e
+      internalID: -244318743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_77
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 406
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85c601af1c2d504db5de33e71223800
+      internalID: -1923502178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_78
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 397
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4729d009348d9e41994292e0bc20278
+      internalID: -1327978394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_79
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 384
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d068691d7bfa84983ef6655b541c22
+      internalID: -1319121654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_80
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 381
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd6e2b3870d61140ae55ae04334b3bd
+      internalID: 457146789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_81
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 393
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9079ea43c117190459ceb3562a84e679
+      internalID: 222018402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_82
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 368
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2736f8f46a54bf4abb9d152534431d6
+      internalID: 2030079458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_83
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 374
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420106a1ccf290449b40ede9db7ced3f
+      internalID: 1928239792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_84
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 370
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75563f2ed2faef46b0e7d4fa528caa6
+      internalID: 603231429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_85
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 379
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dbc225954da784abc368fd76141201
+      internalID: -1177469535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_86
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 354
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be80eecf17e03546b28a890946ee948
+      internalID: -340567939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 160
+        width: 57
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6de61ff9c528564dace03d4207e5351
+      internalID: -899953810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 159
+        width: 63
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd04a4e8423fdb46a4d254c7abb3b7b
+      internalID: 1173667750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_89
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 293
+        width: 9
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96d2badda8761249b1a8421f41968d5
+      internalID: -1639179114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_90
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 224
+        width: 9
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2a8b4da27fc24409e9b1866b92a612
+      internalID: 340050149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 155
+        width: 6
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8556b5868ae04346af5513a8c495d9c
+      internalID: 284556694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_92
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 123
+        width: 5
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35943f65993a4de409fc6f852d3785f0
+      internalID: -1409767716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_93
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 122
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e5f21536567ac49b9a495cecb9c9e9
+      internalID: -1881122530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_94
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 122
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702d51c20249e5b45ad100d24f1c65c9
+      internalID: -899676378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_95
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 159
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9db32e7f177f3f4a8111424efb1fa3b
+      internalID: 1560909693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_96
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 155
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f9653099b2a244da9c4e4e40c23244
+      internalID: -1575711422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_97
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 144
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f0ab4ceff8f964b8a8d5f472302f15
+      internalID: -1483805949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_98
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 122
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a66a82ba0351043828ee120544422d
+      internalID: 725658662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_99
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 148
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f11a45e8dda9284baa5a8b089919340
+      internalID: 1180392382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_100
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 122
+        width: 67
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1919aed6beef204592b6370dd2c8674
+      internalID: -753995386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_101
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 139
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87408df1c452e049b989de4af238ff2
+      internalID: 1352614394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_102
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 143
+        width: 4
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe268571c76ec4149a69d0df2fb6f58b
+      internalID: 426298816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_103
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 159
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f623571c01d0e9c4d9f40d9d73ed57b7
+      internalID: -1036698315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_104
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 122
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdf928f6711ece4fa5a24648965345e
+      internalID: 1998663065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_105
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 147
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb68b02faecd76b4587a8b859e2e484a
+      internalID: 1234971590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_106
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 126
+        width: 4
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efadd1310140c844d93905e487438b61
+      internalID: 2066527103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_107
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 122
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbb82354fe607948a965846b50ad43d
+      internalID: 1186354132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_108
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 125
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d097d4b28a07e4e8337200acdbccac
+      internalID: 2106514103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_109
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 128
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea6be20816fe504dab976cbfb8fa947
+      internalID: 79776352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_110
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 131
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcb41d1c100f4945adea41c53dff889
+      internalID: -1249372834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_111
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 122
+        width: 72
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30851832809c3f41bd6de0950c2a1ab
+      internalID: 765508313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_112
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 122
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e219207cdacf2994ab2f46bc8f0387a0
+      internalID: 1406378425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_113
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 130
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde4132583357346b7a192e44601367
+      internalID: -1469388008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_114
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 122
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde02fbdae670144c80679b8e6fc8588
+      internalID: 1545062929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_115
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 122
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773c416186752b4486839b11a77fbe9
+      internalID: -704898518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_116
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 130
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07da3b4a93a47c419df31b5a9eaccee
+      internalID: 1809461662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_117
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 122
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca8e94781d0af5449269319783db1a9
+      internalID: -546143940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_118
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 128
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169f697d37c44df4b82bac0c76156e22
+      internalID: 1267397198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_120
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 122
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f73ed28c857cd45bcb5d0f5565060c
+      internalID: 384813936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_121
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 122
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9014e2225bf40438896767d0848996
+      internalID: 490653104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_122
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 122
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7041779cea71140a8cd1cfe29fd89e
+      internalID: -872430491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_123
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 122
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d67b765e80eea49ac5d4f58481165c
+      internalID: 792651683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsa-01-export_124
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 123
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0cc27a8a415344a8934cf648ff2696
+      internalID: -749083107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: -899953810
+      2: 1173667750
+      vsa-01-export_0: -1336840506
+      vsa-01-export_1: -510148615
+      vsa-01-export_10: 625029082
+      vsa-01-export_100: -753995386
+      vsa-01-export_101: 1352614394
+      vsa-01-export_102: 426298816
+      vsa-01-export_103: -1036698315
+      vsa-01-export_104: 1998663065
+      vsa-01-export_105: 1234971590
+      vsa-01-export_106: 2066527103
+      vsa-01-export_107: 1186354132
+      vsa-01-export_108: 2106514103
+      vsa-01-export_109: 79776352
+      vsa-01-export_11: -1101498371
+      vsa-01-export_110: -1249372834
+      vsa-01-export_111: 765508313
+      vsa-01-export_112: 1406378425
+      vsa-01-export_113: -1469388008
+      vsa-01-export_114: 1545062929
+      vsa-01-export_115: -704898518
+      vsa-01-export_116: 1809461662
+      vsa-01-export_117: -546143940
+      vsa-01-export_118: 1267397198
+      vsa-01-export_119: -940944434
+      vsa-01-export_12: 741762358
+      vsa-01-export_120: 384813936
+      vsa-01-export_121: 490653104
+      vsa-01-export_122: -872430491
+      vsa-01-export_123: 792651683
+      vsa-01-export_124: -749083107
+      vsa-01-export_125: -1970567036
+      vsa-01-export_126: -1745278279
+      vsa-01-export_13: 182095258
+      vsa-01-export_14: 1443447750
+      vsa-01-export_15: -1240479815
+      vsa-01-export_16: -763705601
+      vsa-01-export_17: 1767329882
+      vsa-01-export_18: -13847366
+      vsa-01-export_19: -872539591
+      vsa-01-export_2: 1925264636
+      vsa-01-export_20: -1202821465
+      vsa-01-export_21: 750541246
+      vsa-01-export_22: -1699544538
+      vsa-01-export_23: 17659527
+      vsa-01-export_24: 1976472741
+      vsa-01-export_25: -1932326695
+      vsa-01-export_26: 1341353947
+      vsa-01-export_27: -44777412
+      vsa-01-export_28: 1789789706
+      vsa-01-export_29: 638174342
+      vsa-01-export_3: -1716171543
+      vsa-01-export_30: 1748044904
+      vsa-01-export_31: 250119381
+      vsa-01-export_32: 1719969495
+      vsa-01-export_33: -1937966967
+      vsa-01-export_34: 1893113566
+      vsa-01-export_35: -2014719563
+      vsa-01-export_36: -1376301841
+      vsa-01-export_37: 406415376
+      vsa-01-export_38: -793754427
+      vsa-01-export_39: -163949667
+      vsa-01-export_4: 233050353
+      vsa-01-export_40: 33039628
+      vsa-01-export_41: -1129174738
+      vsa-01-export_42: -125164562
+      vsa-01-export_43: 1015617123
+      vsa-01-export_44: 674020842
+      vsa-01-export_45: 1113970433
+      vsa-01-export_46: -741869934
+      vsa-01-export_47: -1501624085
+      vsa-01-export_48: -998038569
+      vsa-01-export_49: -128351599
+      vsa-01-export_5: -1380813113
+      vsa-01-export_50: 561547995
+      vsa-01-export_51: 995117920
+      vsa-01-export_52: -521507180
+      vsa-01-export_53: -636153736
+      vsa-01-export_54: -1012459937
+      vsa-01-export_55: 1345821188
+      vsa-01-export_56: 1562268813
+      vsa-01-export_57: -923653754
+      vsa-01-export_58: 1779057427
+      vsa-01-export_59: 1956274845
+      vsa-01-export_6: 1153440872
+      vsa-01-export_60: -590682059
+      vsa-01-export_61: 1653344341
+      vsa-01-export_62: -1077065859
+      vsa-01-export_63: -1977564335
+      vsa-01-export_64: 372203397
+      vsa-01-export_65: 457754764
+      vsa-01-export_66: -1577230170
+      vsa-01-export_67: -1319973525
+      vsa-01-export_68: -362651659
+      vsa-01-export_69: -1917235359
+      vsa-01-export_7: 1069706309
+      vsa-01-export_70: 1422690933
+      vsa-01-export_71: -1335684163
+      vsa-01-export_72: -1982458273
+      vsa-01-export_73: -1923119215
+      vsa-01-export_74: -307410609
+      vsa-01-export_75: -829078285
+      vsa-01-export_76: -244318743
+      vsa-01-export_77: -1923502178
+      vsa-01-export_78: -1327978394
+      vsa-01-export_79: -1319121654
+      vsa-01-export_8: -1246406190
+      vsa-01-export_80: 457146789
+      vsa-01-export_81: 222018402
+      vsa-01-export_82: 2030079458
+      vsa-01-export_83: 1928239792
+      vsa-01-export_84: 603231429
+      vsa-01-export_85: -1177469535
+      vsa-01-export_86: -340567939
+      vsa-01-export_89: -1639179114
+      vsa-01-export_9: 1560654981
+      vsa-01-export_90: 340050149
+      vsa-01-export_91: 284556694
+      vsa-01-export_92: -1409767716
+      vsa-01-export_93: -1881122530
+      vsa-01-export_94: -899676378
+      vsa-01-export_95: 1560909693
+      vsa-01-export_96: -1575711422
+      vsa-01-export_97: -1483805949
+      vsa-01-export_98: 725658662
+      vsa-01-export_99: 1180392382
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

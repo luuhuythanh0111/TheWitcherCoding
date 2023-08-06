@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 990a82aa473a6234d926ade79069c761
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 311
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b460df4cb408a44c9476d0273700385
+      internalID: -1959705312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 309
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e90e1d7ad9eb734b9a94e41c96f9765
+      internalID: -958919991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 315
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573e8dd67cb9ac44e9593b01ef0a7cb4
+      internalID: -1513924386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 318
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816caa5fdfbb4ae4782931108d94c9eb
+      internalID: -1955737194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 328
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889dbedb66eccbe40ac7ee68ca7ae0fa
+      internalID: -1017412046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 348
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a1b42e8d2700a42bd1b32ecfba4efc
+      internalID: 672967282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 301
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ece9c239c5df6140ab7b3b6dd9bf683
+      internalID: -1399430910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 302
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3529b5262aef217459ec0befe80cc8d7
+      internalID: -2873158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 305
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4d7050272e6f64da0d8635feeb13e0
+      internalID: -286766666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 307
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b715501b2c7e66e4f802335dc4d6b2f6
+      internalID: -2066685166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 308
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d52837d49eb1448acfc3be17ea770e
+      internalID: 719469404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 270
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1a785ec4bd92347a51803649ce35e2
+      internalID: -1848643599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 272
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d5e146d7e52fd4bbdd26d637997531
+      internalID: 1276841558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 275
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8f4c3b1591b674b9574d1fa333b56a
+      internalID: -1433916250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 285
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57b2e92119b9e34aa184ce78e8a48d0
+      internalID: -1691829032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 264
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4733c542f8bf9c4fb5f561d9f435e38
+      internalID: 1003385718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 257
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d045acc8a97fbda4eacf0707cb409cb3
+      internalID: 508365017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 260
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2116115aa8ab0648a8ad35035253cd3
+      internalID: 1596888813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 262
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee00756fbd771741805a7624047a96e
+      internalID: -65846394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 258
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca842159a459cb47a1cff06f4a05d7c
+      internalID: -1457052057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 266
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e741944ec30da142a1915e582cfd185
+      internalID: 1227026341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 268
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff95fae5d1a074a90fa78e7072f5b3
+      internalID: -243590620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 227
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3752a1b3368e24842b376316644bb127
+      internalID: -1418438056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 236
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa139f8cb2b4dd4392207de98299614
+      internalID: 857368320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 247
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec9c631c9656a47842d9a2f5723e1a
+      internalID: -964573458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 260
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d96729c6708114c80564fc7b3e4a73
+      internalID: 1850204676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 261
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fdc680b5090a1438ce5cb59fa49010
+      internalID: -601995489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 262
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594ed4705d718c947828102dbd6c1d57
+      internalID: -806911604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 267
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec94b7825a021844fb453249906b1bd5
+      internalID: 1692079073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 219
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14342f3b045fdf4dbf9e4988adba7b5
+      internalID: 1892908521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 220
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e2972e8426d24a9cfa8594386dff0
+      internalID: -1550119455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 223
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509beaa63e3e6634fa98d29e92400e50
+      internalID: -643431752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 224
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5779f5bb9e9aa5240ab2ef7f2aa2ad67
+      internalID: 2140282522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 229
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f9461f3cbec1c4c8847dc64a6f2113
+      internalID: 1840588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 214
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731bbd9cef774af4280b3f3901110d59
+      internalID: 834376967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 217
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e15a9c8d5b064c96c04abe4951464
+      internalID: 1200323491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 205
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be449f5f908574eb31d6aa872d983b
+      internalID: -37214844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 207
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4b86788c0fb28469bdde5b395a0615
+      internalID: -378719294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 161
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9621a897cce2a24ab7f0d105b21df35
+      internalID: -2058776493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 169
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe028310414f0ba40b890d8c3dff4b27
+      internalID: 1712759916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 204
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5858c94c8f02f549a655ab15df0824e
+      internalID: 156346131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 149
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265186e87ef05b04c93531b664aeaa44
+      internalID: 1804659431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 151
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f9169d048406a4e8dd87d00ae4bc37
+      internalID: -2146528676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 147
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dbc689d11561447837366de54183fd
+      internalID: -1396044588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 149
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770fac9f7e98b9843938fbf83c0ac73b
+      internalID: 1942109536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 151
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b2680b7ac1b44f84d46b368a15965
+      internalID: 462973472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 153
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8e67454ddc715419bf0e70e4ef0fda
+      internalID: -1271157379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 145
+        width: 54
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc1819307632c947b695a87798bc92b
+      internalID: 33616474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 107
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ac9319f3a5b0143ade21fbb1050fbc
+      internalID: -2051956064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 113
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf25fbecf8a65347b1b18f1145efc74
+      internalID: -245291026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 93
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9046ea10f3d314eaca13d45355a1b6
+      internalID: 157299246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 96
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca96ff08977fb09419abd1e4a83f704b
+      internalID: -1372861350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 90
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6374b84e67bcbd418ba24378c3ebd89
+      internalID: -123220431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 41
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf90a51713411242a70823aa147ac29
+      internalID: -578813486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 51
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32828c4289b9abd458ac0dacce08f152
+      internalID: -1378732622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 35
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799790206be18bc4ca84557620099bca
+      internalID: 1638765139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 37
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67450d341d5ab22438d0942341273642
+      internalID: 1493516532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyoXV7-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 209
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308640315b8da644f930e86cd66cc593
+      internalID: -1462999268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cyoXV7-removebg-preview_0: -1462999268
+      cyoXV7-removebg-preview_1: -1959705312
+      cyoXV7-removebg-preview_10: -2066685166
+      cyoXV7-removebg-preview_11: 719469404
+      cyoXV7-removebg-preview_12: -1848643599
+      cyoXV7-removebg-preview_13: 1276841558
+      cyoXV7-removebg-preview_14: -1433916250
+      cyoXV7-removebg-preview_15: -1691829032
+      cyoXV7-removebg-preview_16: 1003385718
+      cyoXV7-removebg-preview_17: 508365017
+      cyoXV7-removebg-preview_18: 1596888813
+      cyoXV7-removebg-preview_19: -65846394
+      cyoXV7-removebg-preview_2: -958919991
+      cyoXV7-removebg-preview_20: -1457052057
+      cyoXV7-removebg-preview_21: 1227026341
+      cyoXV7-removebg-preview_22: -243590620
+      cyoXV7-removebg-preview_23: -1418438056
+      cyoXV7-removebg-preview_24: 857368320
+      cyoXV7-removebg-preview_25: -964573458
+      cyoXV7-removebg-preview_26: 1850204676
+      cyoXV7-removebg-preview_27: -601995489
+      cyoXV7-removebg-preview_28: -806911604
+      cyoXV7-removebg-preview_29: -1267308535
+      cyoXV7-removebg-preview_3: -1513924386
+      cyoXV7-removebg-preview_30: 1591468705
+      cyoXV7-removebg-preview_31: 1692079073
+      cyoXV7-removebg-preview_32: 1324241408
+      cyoXV7-removebg-preview_33: -1450983162
+      cyoXV7-removebg-preview_34: 1892908521
+      cyoXV7-removebg-preview_35: -1550119455
+      cyoXV7-removebg-preview_36: -643431752
+      cyoXV7-removebg-preview_37: 2140282522
+      cyoXV7-removebg-preview_38: 161115375
+      cyoXV7-removebg-preview_39: 1840588
+      cyoXV7-removebg-preview_4: -1955737194
+      cyoXV7-removebg-preview_40: 834376967
+      cyoXV7-removebg-preview_41: 1200323491
+      cyoXV7-removebg-preview_42: -37214844
+      cyoXV7-removebg-preview_43: -378719294
+      cyoXV7-removebg-preview_44: -2058776493
+      cyoXV7-removebg-preview_45: 1712759916
+      cyoXV7-removebg-preview_46: 156346131
+      cyoXV7-removebg-preview_47: 1804659431
+      cyoXV7-removebg-preview_48: -2146528676
+      cyoXV7-removebg-preview_49: -1396044588
+      cyoXV7-removebg-preview_5: -1017412046
+      cyoXV7-removebg-preview_50: 1942109536
+      cyoXV7-removebg-preview_51: 462973472
+      cyoXV7-removebg-preview_52: -1271157379
+      cyoXV7-removebg-preview_53: -1431438051
+      cyoXV7-removebg-preview_54: 2147215573
+      cyoXV7-removebg-preview_55: -719728812
+      cyoXV7-removebg-preview_56: 1672901589
+      cyoXV7-removebg-preview_57: -1687948190
+      cyoXV7-removebg-preview_58: 33616474
+      cyoXV7-removebg-preview_59: -2051956064
+      cyoXV7-removebg-preview_6: 672967282
+      cyoXV7-removebg-preview_60: -245291026
+      cyoXV7-removebg-preview_61: -1090103648
+      cyoXV7-removebg-preview_62: 1802253977
+      cyoXV7-removebg-preview_63: -2090594316
+      cyoXV7-removebg-preview_64: 157299246
+      cyoXV7-removebg-preview_65: -1372861350
+      cyoXV7-removebg-preview_66: -587478993
+      cyoXV7-removebg-preview_67: -1076646234
+      cyoXV7-removebg-preview_68: 737442608
+      cyoXV7-removebg-preview_69: -2263495
+      cyoXV7-removebg-preview_7: -1399430910
+      cyoXV7-removebg-preview_70: 990229106
+      cyoXV7-removebg-preview_71: 1722607749
+      cyoXV7-removebg-preview_72: -123220431
+      cyoXV7-removebg-preview_73: -578813486
+      cyoXV7-removebg-preview_74: -1378732622
+      cyoXV7-removebg-preview_75: 1638765139
+      cyoXV7-removebg-preview_76: 1493516532
+      cyoXV7-removebg-preview_8: -2873158
+      cyoXV7-removebg-preview_9: -286766666
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
