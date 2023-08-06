@@ -115,4 +115,28 @@ public class AttackMethods : MonoBehaviour
         }
         return false;
     }
+
+    public void LazerShotting(float degrees, float ratioTime)
+    {
+        Lazer lazer = SimplePool.Spawn<Lazer>(PoolType.Lazer, transform.position, transform.rotation);
+        lazer.OnInit();
+        if (CanDecreasePlayerMana(lazer.manaWeapon) == false)
+        {
+            lazer.OnDespawn();
+            return;
+        }
+        lazer.Shotting(degrees, ratioTime);
+    }
+
+    public void LazerAutoShotting(float ratioTime)
+    {
+        Lazer lazer = SimplePool.Spawn<Lazer>(PoolType.Lazer, transform.position, transform.rotation);
+        lazer.OnInit();
+        if (CanDecreasePlayerMana(lazer.manaWeapon) == false)
+        {
+            lazer.OnDespawn();
+            return;
+        }
+        lazer.AutoShotting(ratioTime);
+    }
 }

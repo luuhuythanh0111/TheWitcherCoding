@@ -2488,6 +2488,7 @@ MonoBehaviour:
   uiResources: []
   CanvasParentTF: {fileID: 36068729}
   gamePlayUI: {fileID: 0}
+  codingUI: {fileID: 0}
 --- !u!4 &1029945710
 Transform:
   m_ObjectHideFlags: 0
@@ -3443,6 +3444,11 @@ MonoBehaviour:
     clamp: 0
   - root: {fileID: 260359964}
     prefab: {fileID: 6853973672462339216, guid: 6ad299f789bc39244af685118f0400da, type: 3}
+    amount: 5
+    collect: 0
+    clamp: 0
+  - root: {fileID: 260359964}
+    prefab: {fileID: 2327424732575922736, guid: 340d502060feac345af0f7b11485a638, type: 3}
     amount: 5
     collect: 0
     clamp: 0

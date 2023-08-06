@@ -54,18 +54,19 @@ public class PlayerAttackment : AttackMethods
         //if (DetectMonster(100))
         //{
         //ShieldActive(0);
-        SparkShotting(0, 50);
-        SparkShotting(0, 55);
-        SparkShotting(180, 50);
-        SparkShotting(180, 55);
+        //SparkShotting(0, 50);
+        //SparkShotting(0, 55);
+        //SparkShotting(180, 50);
+        //SparkShotting(180, 55);
         //}
         //else
         //{
         //KunaiAutoShotting(50, this);
         //}    
 
-        SparkAutoShotting(0);
+        //SparkAutoShotting(0);
         //SparkCircleShotting(50);
+        LazerAutoShotting(50);
     }
 
 }
