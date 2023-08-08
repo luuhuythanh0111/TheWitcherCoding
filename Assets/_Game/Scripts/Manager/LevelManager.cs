@@ -34,7 +34,7 @@ public class LevelManager : Singleton<LevelManager>
         isBossState = false;
         aliveBot = 0f;
         currentChapter = 0;
-        currentMap = SimplePool.Spawn<MapController>(mapPrefab[currentChapter],
+        currentMap = Instantiate(mapPrefab[currentChapter],
                                  new Vector3(player.transform.position.x, 0, 0),
                                  transform.rotation);
         currentMap.OnInit();
@@ -42,7 +42,7 @@ public class LevelManager : Singleton<LevelManager>
 
     private void Update()
     {
-        InfinityMap();
+        //InfinityMap();
 
         if (GameManager.Instance.IsState(GameState.Gameplay) == false)
             return;
@@ -79,7 +79,7 @@ public class LevelManager : Singleton<LevelManager>
     {
         currentChapter = 1;
         currentMap.OnDespawn();
-        currentMap = SimplePool.Spawn<MapController>(mapPrefab[currentChapter],
+        currentMap = Instantiate(mapPrefab[currentChapter],
                                  new Vector3(player.transform.position.x, 0, 0),
                                  transform.rotation);
         currentMap.OnInit();

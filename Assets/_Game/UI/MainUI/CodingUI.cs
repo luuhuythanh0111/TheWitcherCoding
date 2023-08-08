@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class CodingUI : UICanvas
 {
@@ -10,6 +11,8 @@ public class CodingUI : UICanvas
     public PlayerCodeInput playerCodeInput;
 
     public Text errorTxt;
+
+    public TMP_InputField inputPLayerCode;
 
     private void Start()
     {
@@ -24,4 +27,16 @@ public class CodingUI : UICanvas
         GameManager.Instance.ChangeState(GameState.Gameplay);
         Close();
     }
+
+    public void ChangeToInventory()
+    {
+        UIManager.Instance.OpenUI<InventoryUI>();
+        Close();
+    }
+
+    public void AddMoreLine()
+    {
+        inputPLayerCode.lineLimit += 2;
+    }
+
 }

@@ -29,7 +29,7 @@ public class MapController : GameUnit
 
     public override void OnDespawn()
     {
-        SimplePool.Despawn(this);
+        Destroy(this.gameObject);
     }
 
     private void OnTriggerEnter2D(Collider2D other)

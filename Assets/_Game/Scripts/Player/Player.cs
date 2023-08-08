@@ -94,6 +94,7 @@ public class Player : MonoBehaviour
             if(levelPlayer % 2 == 0)
             {
                 GameManager.Instance.ChangeState(GameState.CodingUI);
+                UIManager.Instance.codingUI.AddMoreLine();
                 UIManager.Instance.CloseUI<GamePlayUI>();
                 UIManager.Instance.OpenUI<CodingUI>();
             }

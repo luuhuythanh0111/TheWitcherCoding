@@ -16,6 +16,9 @@ public class ButtonAddCode : MonoBehaviour
 
     public CodingUI codingUI;
 
+    public GameObject WarningObject;
+    public Text errorTxt;
+
     private void Start()
     {
         addCodeBtn.onClick.AddListener(AddToPLayerCode);
@@ -47,6 +50,12 @@ public class ButtonAddCode : MonoBehaviour
                 playerCode.text = playerCode.text + inputString[0].text + "[" + inputString[1].text + "]" + "." + inputString[2].text + ";\n";
                 return;
             case PlayerInputType.For:
+                if(codingUI.NumberOfTab > 0)
+                {
+                    errorTxt.text = "Access for here denied, fps not allowed";
+                    WarningObject.SetActive(true);
+                    return;
+                }
                 playerCode.text += "for(int i = " + inputString[0].text + "; i <= " + inputString[1].text + "; i++) \n{\n";
 
                 codingUI.NumberOfTab++;
